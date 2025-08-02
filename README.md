@@ -106,5 +106,3 @@ Pull requests are welcome! For major updates, open an issue first to discuss cha
 This project is licensed under the MIT License.
 
 ---
-
-## 📂 Folder Structure
